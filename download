@@ -1,0 +1,13 @@
+**/bin/
+**/obj/
+.vs/
+**/ORBIS_Release/
+*.prx
+*.sprx
+*.elf
+*.o
+*.pdb
+*.ip
+*.dmp
+*.sorbisdmp
+dependencies/self/make_fself.exe
