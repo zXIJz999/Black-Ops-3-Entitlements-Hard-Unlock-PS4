@@ -4,8 +4,6 @@ This is the source code for the Black Ops 3 entitlements unlock. It writes categ
 
 ## In-game screenshot
 
-This shows the Mod Tools Alpha calling card in the Black Ops 3 calling cards menu.
-
 ![Mod Tools Alpha calling card shown in game](images/mod-tools-alpha.png)
 
 ## What it does
